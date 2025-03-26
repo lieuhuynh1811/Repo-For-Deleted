@@ -12,18 +12,18 @@ Appointment section is displayed after successful login</description>
     <tag></tag>
     <comment></comment>
     <name>Login (1) (1) (1)</name>
-    <testCaseGuid>925f21ce-edb7-463b-b70d-a4888dc1d2ed</testCaseGuid>
+    <testCaseGuid>4295a610-ce43-46a2-bec7-3e86214e89a9</testCaseGuid>
     <variable>
         <defaultValue>John Doe</defaultValue>
         <description></description>
-        <id>3686d626-754b-47cf-9bef-1be874c36b29</id>
+        <id>34afd233-48c9-4b46-b72e-e8e0b350f7de</id>
         <masked>false</masked>
         <name>Username</name>
     </variable>
     <variable>
         <defaultValue>ThisIsNotAPassword</defaultValue>
         <description></description>
-        <id>77beaa7f-3c7c-4f3b-822e-31ffee089cbf</id>
+        <id>8d888d79-8ed5-4dd6-88d8-a22af4f1b7f5</id>
         <masked>false</masked>
         <name>Password</name>
     </variable>
