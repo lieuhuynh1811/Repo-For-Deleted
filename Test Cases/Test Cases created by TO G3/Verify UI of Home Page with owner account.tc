@@ -5,7 +5,7 @@
 here is description</description>
     <tag></tag>
     <comment></comment>
-    <name>Verify UI of Home</name>
+    <name>Verify UI of Home Page with owner account</name>
     <testCaseGuid>1df2dd40-1ff5-41f4-a025-39e4424cda6c</testCaseGuid>
 </TestCaseEntity>
 
