@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify Search Functionality (1)</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>318d1a50-a8d2-478e-8de3-6808e3259ae1</testCaseGuid>
+</TestCaseEntity>
+
