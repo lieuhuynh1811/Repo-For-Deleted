@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>here is description
+here is description</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify UI of Home Page with owner account (3)</name>
+    <testCaseGuid>f05104e2-5c81-4a22-b26f-cd9728fee566</testCaseGuid>
+</TestCaseEntity>
+
