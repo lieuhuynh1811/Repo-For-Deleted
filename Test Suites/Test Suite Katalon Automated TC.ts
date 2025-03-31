@@ -12,12 +12,6 @@
     <rerunImmediately>false</rerunImmediately>
     <testSuiteGuid>6bf1c7af-57f5-48a3-b490-bd1be49e80ae</testSuiteGuid>
     <testCaseLink>
-        <guid>717133b8-8839-4ca1-a55f-72706412a9c2</guid>
-        <isReuseDriver>false</isReuseDriver>
-        <isRun>true</isRun>
-        <testCaseId>Test Cases/Katalon Automated TC/API Response Time Validation</testCaseId>
-    </testCaseLink>
-    <testCaseLink>
         <guid>602d6c8c-d6dd-40d2-9d24-4a1085fb094a</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
