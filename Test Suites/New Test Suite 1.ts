@@ -15,7 +15,7 @@
         <guid>1d82026e-0332-4247-8cd6-570ea73a948b</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Katalon Automated TC/Checkout with Credit Card</testCaseId>
+        <testCaseId>Test Cases/Katalon Automated TC (1)/Checkout with Credit Card</testCaseId>
         <variableLink>
             <testDataLinkId></testDataLinkId>
             <type>DEFAULT</type>
@@ -33,13 +33,13 @@
         <guid>1002a45c-f51c-4c03-8c28-ba30a251cb72</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Katalon Automated TC/Delete User Account Confirmation</testCaseId>
+        <testCaseId>Test Cases/Katalon Automated TC (1)/Delete User Account Confirmation</testCaseId>
     </testCaseLink>
     <testCaseLink>
         <guid>a836b269-ff6e-4dcf-a371-154b61ffb621</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Katalon Automated TC/Login with Invalid Password</testCaseId>
+        <testCaseId>Test Cases/Katalon Automated TC (1)/Login with Invalid Password</testCaseId>
     </testCaseLink>
 </TestSuiteEntity>
 

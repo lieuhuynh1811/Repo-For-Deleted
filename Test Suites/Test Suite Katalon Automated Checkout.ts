@@ -15,7 +15,7 @@
         <guid>93ded4a6-b944-4034-9f80-096d1aac4707</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Katalon Automated TC/Login with Valid Credentials</testCaseId>
+        <testCaseId>Test Cases/Katalon Automated TC (1)/Login with Valid Credentials</testCaseId>
         <variableLink>
             <testDataLinkId></testDataLinkId>
             <type>DEFAULT</type>

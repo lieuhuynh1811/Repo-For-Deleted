@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description>Verify if users can book an appointment sucessfully!@#$%^
+   leoleoleoleo
+   </description>
+    <tag></tag>
+    <comment>Story Book an appointment</comment>
+    <name>API Response Time Validation (1)</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>6955a061-8ab9-47cd-a0f3-5ae95daba983</testCaseGuid>
+</TestCaseEntity>
+
