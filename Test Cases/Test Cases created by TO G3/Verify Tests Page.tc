@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>Tests</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify Tests Page</name>
+    <testCaseGuid>538cd2e6-7f3f-4f23-aba0-2c7e8c478c6c</testCaseGuid>
+</TestCaseEntity>
+
