@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Have Permission using SandC (2)</name>
+    <testCaseGuid>99c23d96-bb46-4fbc-abea-b5bb6b9da2a5</testCaseGuid>
+</TestCaseEntity>
+

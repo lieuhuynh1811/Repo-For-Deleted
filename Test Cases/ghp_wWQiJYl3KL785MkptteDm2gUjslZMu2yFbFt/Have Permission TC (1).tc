@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Have Permission TC (1)</name>
+    <testCaseGuid>a413aedb-7aa8-4e15-9ccc-abeb762dd5e7</testCaseGuid>
+</TestCaseEntity>
+
