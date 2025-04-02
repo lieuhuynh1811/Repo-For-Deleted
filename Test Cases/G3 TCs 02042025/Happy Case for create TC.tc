@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Happy Case for create TC</name>
+    <testCaseGuid>04d05507-5a9a-49d4-9076-03404d6fcd67</testCaseGuid>
+</TestCaseEntity>
+
