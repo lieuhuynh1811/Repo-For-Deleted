@@ -27,7 +27,7 @@
         <guid>602d6c8c-d6dd-40d2-9d24-4a1085fb094a</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Katalon Automated TC/Checkout with Credit Card</testCaseId>
+        <testCaseId>Test Cases/Katalon Automated TC/Checkout with Cash</testCaseId>
         <variableLink>
             <testDataLinkId></testDataLinkId>
             <type>DEFAULT</type>
