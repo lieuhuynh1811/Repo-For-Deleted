@@ -22,7 +22,7 @@
       <guid>3fb764db-22f4-47e1-9c5f-eed7d29ab16b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Katalon Automated TC/Upload File with Invalid Format</testCaseId>
+      <testCaseId>Test Cases/Katalon Automated TC/Upload File with Format correctly</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -36,7 +36,7 @@
       <guid>e8e1bea2-feae-42a5-ab65-d71f55e99d0b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Katalon Automated TC/Page Load Performance Test</testCaseId>
+      <testCaseId>Test Cases/Katalon Automated TC/Page Load Performance Test correctly</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
